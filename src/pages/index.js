@@ -9,7 +9,7 @@ const IndexPage = () => {
         <Layout>
             <div>
                 <Head  title="Home"/>
-                <h1>Hello</h1>
+                <h1>Let's get this part started</h1>
                 <h2>All about me</h2>
                 <p>Gatbsy internal link method <a href="https://twitter.com" target="_blank">Twitter</a></p>
                 <p>External link method: <Link to="/contact">Contact me</Link></p>
